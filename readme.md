@@ -6,19 +6,19 @@
 
 ### url for moves list : http://localhost:8000/api/v1/<string:figure>/<string:current_field>
 ####where
-<string:figure>
+"string:figure"
 is a name of the figure given as follows: king, queen, rook, bischop, knight, pawn 
-<string:current_field>
+"string:current_field"
 is alphanumeric field markup of current field, letter has to be written capitalized
 ####eg: http://localhost:8000/api/v1/king/A7
 
 ### url for validation : http://localhost:8000/api/v1/<string:figure>/<string:current_field>/<string:dest_field>
 ####where
-<string:figure>
+"string:figure"
 is a name of the figure given as follows: king, queen, rook, bischop, knight, pawn 
-<string:current_field>
+"string:current_field"
 is alphanumeric field markup of current field, letter has to be written capitalized
-<string:dest_field>is alphanumeric field markup of destination, letter has to be written capitalized
+"string:dest_field" is alphanumeric field markup of destination, letter has to be written capitalized
 ####eg: http://localhost:8000/api/v1/king/A7/A8
 
 ### eg : http://localhost:8000/api/v1/king/A7
