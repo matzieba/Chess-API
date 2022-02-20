@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/junior netstation.iml" filepath="$PROJECT_DIR$/.idea/junior netstation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/junior chess.iml" filepath="$PROJECT_DIR$/.idea/junior chess.iml" />
     </modules>
   </component>
 </project>
